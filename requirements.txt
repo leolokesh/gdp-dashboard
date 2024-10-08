@@ -1,6 +1,3 @@
-streamlit
-pandas
-requests
-openpyxl
-matplotlib
-plotly
+streamlit==1.25.0  # Or the latest stable version
+pandas==2.1.1  # Latest pandas for data manipulation
+plotly==5.15.0  # The latest stable plotly version for charts
